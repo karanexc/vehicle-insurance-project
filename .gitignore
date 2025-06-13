@@ -51,6 +51,7 @@ coverage.xml
 .pytest_cache/
 cover/
 # projectflow.txt
+notebook/mongoDB_demo.ipynb
 
 # Translations
 *.mo
